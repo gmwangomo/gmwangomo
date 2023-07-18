@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gmwangomo
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Gwakisa Mwangomo
+- 👀 I’m interested in coding especial in Web development and App Development.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on coding and improving skills in the programming language
+- 💞️ I’m looking to collaborate on coding and improving skills in the programming languages
 - 📫 How to reach me via .....
 
 <!---
