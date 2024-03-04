@@ -1,11 +1,15 @@
 <!---
 <p align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=gmwangomo&show_icons=true&hide_border=true" align="right"></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gmwangomo&show_icons=true&hide_border=true" align="right">
+</p>
 --->
+
 <!--
-Top lng used
+Top programming lang Used
 --->
-<p aligin="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmwangomo&show_icons=true&locale=en&layout=compact" alt="gmwangomo" /></p>
+<p aligin="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmwangomo&show_icons=true&locale=en&layout=compact" alt="gmwangomo" />
+</p>
 
 ### 👋 Hi, I’m Gwakisa Mwangomo
 - 👀 I’m interested in coding especial in Web development and App Development.
