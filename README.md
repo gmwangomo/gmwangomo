@@ -36,6 +36,7 @@ Top programming lang Used
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JS](https://img.shields.io/badge/JavaScript-61DAFB?style=for-the-badge&logo=javascript&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vuejs-61DAFB?style=for-the-badge&logo=vuejs&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=tailwind&logoColor=white)
 
 **Backend:**  
@@ -45,7 +46,7 @@ Top programming lang Used
   ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Database:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Mobile App Development:**  
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
