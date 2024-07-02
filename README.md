@@ -41,6 +41,7 @@ Top programming lang Used
 
 **Backend:**  
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=laravel&logoColor=white)
