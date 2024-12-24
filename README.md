@@ -40,6 +40,7 @@ Top programming lang Used
   ![Tailwind](https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=tailwind&logoColor=white)
 
 **Backend:**  
+  ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
