@@ -30,9 +30,10 @@ Top programming lang Used
 
 **Backend:**  
   ![Laravel](https://img.shields.io/badge/Laravel-092E20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  <!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  -->
   
 **Database:**  
   ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,6 +41,7 @@ Top programming lang Used
 
 **Mobile App Development:**  
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android Application-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
