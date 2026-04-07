@@ -41,7 +41,7 @@ Top programming lang Used
 
 **Mobile App Development:**  
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android Application-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  <!--![Android](https://img.shields.io/badge/Android Application-61DAFB?style=for-the-badge&logo=react&logoColor=white) -->
 
 **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
